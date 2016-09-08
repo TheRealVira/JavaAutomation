@@ -1,5 +1,5 @@
 # JavaAutomation
 Some kind of a need "I-will-install-java-for-you-and-create-a-testingclass-which-I-will-compile-and-run"-fun written with PowerShell... pls don't kill me for that :grin:
 
-## How the school semester starts...
+## How the school semester started...
 You know that feeling that you get in the holidays, which tells you that the next year is going to be pretty hard and you won't be able to keep up? No? It's probably just me but yeah... So. New school semester begins, old best friend professor Rosenfellner goes and a new one comes. The conversations where pretty funny, untill we started talking about the real basics of everything... Yeah. So we started by talking which different IDE's we might use and about how to compile and run java code and the best part of it is, that we've also "learned" how to download the newest jre! :tired_face: It might be the perfect level for our class, but it's definitely not mine. So after he called those simple steps "complicated", I couldn't stopp thinking a way of automating those steps, to show him, that some students of his class do actually have skills ¯\\\_(ツ)_/¯
